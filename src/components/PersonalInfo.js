@@ -10,7 +10,7 @@ const PersonalInfo = () => {
                     <div className="col-md-4">
                         <img
                         scr={image}
-                        alt='Picture of me'
+                        alt='Sara-Sofia Paananen'
                         className="img-fluid rounded-start"
                         />
                     </div>
