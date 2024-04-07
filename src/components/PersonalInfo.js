@@ -21,7 +21,7 @@ const PersonalInfo = () => {
                                 <strong>Name:</strong> Sara-Sofia Paananen
                             </p>
                             <p className="card-text">
-                                <strong>Email:</strong> sarasofia.paananen@student.hamk.fi
+                                <strong>Email:</strong> sara-sofia.paananen@student.hamk.fi
                             </p>
                             <p className="card-text">
                                 <strong>Number:</strong> +35800223344
