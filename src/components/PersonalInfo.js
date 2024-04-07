@@ -9,7 +9,7 @@ const PersonalInfo = () => {
                 <div className="row no-gutters">
                     <div className="col-md-4">
                         <img
-                        scr={image}
+                        src={image}
                         alt='Sara-Sofia Paananen'
                         className="img-fluid rounded-start"
                         />
